@@ -2,7 +2,7 @@
 GApps with magic features. Extract and modify from OxygenOS(8.0.0) biuld-in GAPPS.
 
 !!!This version just support for Android 8.0.0 build. 
-Android 7.1.x build please download from this [link] (https://github.com/wuchjun/magisk-gapps-h2os/archive/7.1.x.zip).
+Android 7.1.x build please download from this [link](https://github.com/wuchjun/magisk-gapps-h2os/archive/7.1.x.zip).
 ***
 Full Google Framework
 

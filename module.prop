@@ -1,7 +1,7 @@
 id=magisk-gapps-h2os
 name=MagiskGAPPS For H2OS
 version=8.0.0
-versionCode=3
+versionCode=4
 author=wuchjun
 description=GApps with magic features. Extract and modify from OxygenOS(8.0.0) biuld-in GAPPS.
-template=1400
+minMagisk=1500

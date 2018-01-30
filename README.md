@@ -6,11 +6,11 @@ Android 7.1.1 build please download from this [link](https://github.com/Magisk-M
 ***
 Full Google Framework
 
-Core syncing APKs (i.e., Google, Google Play Services, SetupWizard, Google Play Store, GoogleContactsSyncAdapter, Facelock, )
+Core syncing APKs (i.e., Google, Google Play Services, SetupWizard, Google Play Store)
 
 ***
 # Notice
-1. Based on Magisk v14 or newer
+1. Based on Magisk v15 or newer
 2. Testd on OnePlus 3 with TWRP 3.1.1.x
 3. Root is not required
 
